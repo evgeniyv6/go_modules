@@ -3,5 +3,5 @@ package evgmod
 import "fmt"
 
 func Hi() {
-	fmt.Println("Hello from evgmod")
+	fmt.Println("Hello from evgmod!!!")
 }
